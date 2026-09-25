@@ -1,0 +1,6 @@
+{
+  "name": "Ayush Properties Dealer - Bokaro Steel City Real Estate",
+  "description": "Premium real estate dealer in Bokaro Steel City offering verified residential plots, apartments, duplexes, commercial properties, and transparent property consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
